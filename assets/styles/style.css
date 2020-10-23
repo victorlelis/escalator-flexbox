@@ -114,6 +114,8 @@ header .container button {
 
 .graphics {
   background: var(--color-light);
+  padding-bottom: 4rem;
+  margin-top: 6rem;
 }
 
 .graphics .section-title {
