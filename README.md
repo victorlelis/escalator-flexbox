@@ -1,6 +1,6 @@
 
 # Resultado
-![escalator-web](https://user-images.githubusercontent.com/39639652/97034130-cb6ae980-153a-11eb-92bb-f4df439c811b.png)
+![escalator-web](https://user-images.githubusercontent.com/39639652/97035432-b2633800-153c-11eb-94f6-a20356b2598c.png)
 
 Disponível no [Github Pages](https://victorlelis.github.io/escalator-flexbox/)
 
