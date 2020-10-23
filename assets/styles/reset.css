@@ -1,0 +1,35 @@
+:root {
+  --color-text: #383838;
+  --color-white: #ffffff;
+  --color-light: #f4f4f4;
+  --color-blue-dark: #005499;
+  --color-blue-light: #0088ed;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body,
+html {
+  min-height: 100vh;
+  font-size: 62.5%;
+}
+
+body,
+button {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
