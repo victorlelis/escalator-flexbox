@@ -22,7 +22,8 @@
 }
 
 header {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/bg-header.png') no-repeat center center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/bg-header.png')
+    no-repeat center center;
   background-size: cover;
   height: 61.3rem;
 }
@@ -82,30 +83,32 @@ header .container button {
 }
 
 .category-item.nature {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-nature.png') no-repeat center center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-nature.png')
+    no-repeat center center;
   background-size: cover;
 }
 
 .category-item.daily {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-daily.png') no-repeat center center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-daily.png')
+    no-repeat center center;
   background-size: cover;
 }
 
 .category-item.together {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-together.png') no-repeat center
-    center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-together.png')
+    no-repeat center center;
   background-size: cover;
 }
 
 .category-item.analysis {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-analysis.png') no-repeat center
-    center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-analysis.png')
+    no-repeat center center;
   background-size: cover;
 }
 
 .category-item.pictures {
-  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-pictures.png') no-repeat center
-    center;
+  background: url('https://victorlelis.github.io/escalator-flexbox/assets/images/category-pictures.png')
+    no-repeat center center;
   background-size: cover;
 }
 
@@ -277,6 +280,10 @@ header .container button {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  .category-row + .category-row {
+    margin-top: 3rem;
   }
 
   .category-item {
